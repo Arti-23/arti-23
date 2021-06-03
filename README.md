@@ -9,12 +9,6 @@
 - 🥅 2021 Goals: Trabajar como desarrollador
 - ⚡ Fun fact: lastimosamente juego al lol
 
-### Contacto:
-
-[<img align="left" alt="Tomas Farias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Tomas Farias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Lenguajes y herramientas:
@@ -59,6 +53,14 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+<br />
+
+### Contacto:
+
+[<img align="left" alt="Tomas Farias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Tomas Farias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: arti-23.github.io
 [linkedin]: https://www.linkedin.com/in/tomas-farias/
