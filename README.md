@@ -1,6 +1,6 @@
 ### Hola! Soy Tomas Farias - [Arti-23][website] 👋
 
-[![Website](https://img.shields.io/website?label=INICIO&style=for-the-badge)](arti-23.github.io)
+[![Website](https://https://img.shields.io/badge/Inicio-Click-brightgreen)](arti-23.github.io)
 
 ## Soy un desarrollador web!
 
