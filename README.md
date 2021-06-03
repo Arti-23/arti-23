@@ -41,6 +41,12 @@
 <br />
 <br />
 
+### Contacto:
+
+[<img align="left" alt="Tomas Farias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Tomas Farias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <details>
   <summary>:zap: Actividad de GitHub</summary>
   
@@ -53,14 +59,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<br />
-
-### Contacto:
-
-[<img align="left" alt="Tomas Farias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Tomas Farias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: arti-23.github.io
 [linkedin]: https://www.linkedin.com/in/tomas-farias/
