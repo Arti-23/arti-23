@@ -1,6 +1,6 @@
 ### Hola! Soy Tomas Farias - [Arti-23][website] 👋
 
-<a href="arti-23.github.io">Pagina de Inicio</a>
+<a href="http://arti-23.github.io">Pagina de Inicio</a>
 
 ## Soy un desarrollador web!
 
