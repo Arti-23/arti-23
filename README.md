@@ -18,8 +18,7 @@
 
 ### Languages and Tools:
 
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<label> Visual Studio Code </label>
+[<img  align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][<label> visual studio code </label>]
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <label> HTML5 </label>
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,6 +37,7 @@
 <label> Git </label>
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <label> GitHub </label>
+
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist] -->
 
 <br />
@@ -58,5 +58,5 @@
 
 [website]: arti-23.github.io
 [linkedin]: https://www.linkedin.com/in/tomas-farias/
-[course]: http://vsCodeHero.com
+[course]: https://soyhenry.com
 [instagram]: https://www.instagram.com/_arti23/
