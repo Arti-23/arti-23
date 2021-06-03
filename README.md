@@ -1,7 +1,6 @@
 ### Hola! Soy Tomas Farias - [Arti-23][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badgeurl=https%3A%2F%2Fcodestackr.com)](arti-23.github.io)
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](arti-23.github.io)
+[![Website](https://img.shields.io/website?label=INICIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](arti-23.github.io)
 
 ## Soy un desarrollador web!
 
