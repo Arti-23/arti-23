@@ -1,7 +1,6 @@
 ### Hola! Soy Tomas Farias - [Arti-23][website] 👋
 
-[![Website](https://img.shields.io/website?label=Inicio&style=for-the-badgeurl=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badgeurl=https%3A%2F%2Fcodestackr.com)](arti-23.github.io)
 
 ## Soy un desarrollador web!
 
@@ -36,22 +35,15 @@
 <br />
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Actividad de GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+1. 
+2. 
+3. 
+4. 
+5. 
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
