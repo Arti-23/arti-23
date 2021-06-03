@@ -7,7 +7,7 @@
 - 🔭 Mi curso realizado: [SoyHenry][course]!
 - 👯 Trabajo en equipo
 - 🥅 2021 Goals: Trabajar como desarrollador
-- ⚡ Fun fact: lastimosamente juego al lol
+- ⚡ Fun fact: Amo a los perros :dog:
 
 <br />
 
