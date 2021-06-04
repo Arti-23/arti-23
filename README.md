@@ -9,8 +9,6 @@
 - 🥅 2021 Goals: Trabajar como desarrollador
 - ⚡ Fun fact: Amo a los perros :dog:
 
-<br />
-
 ### Lenguajes y herramientas:
 
 <div>
